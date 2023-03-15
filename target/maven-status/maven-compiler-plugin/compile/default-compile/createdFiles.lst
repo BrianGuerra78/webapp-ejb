@@ -1,0 +1,4 @@
+org\bguerra\webapp\ejb\controllers\EjemploServlet.class
+org\bguerra\webapp\ejb\models\Producto.class
+org\bguerra\webapp\ejb\service\ServiceEjb.class
+org\bguerra\webapp\ejb\service\ServiceEjbLocal.class
